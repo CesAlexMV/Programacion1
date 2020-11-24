@@ -6,15 +6,15 @@ int main()
 {
     float diagonal, altura, ancho;
   
-printf("Digite la medida de la diagonal y el ancho de la puerta en metros");
+    printf("Digite la medida de la diagonal y el ancho de la puerta en metros");
   
-scanf("%f %f",& diagonal,& ancho);
+    scanf("%f %f",& diagonal,& ancho);
   
-   altura = (sqrt(pow((diagonal),2) - pow((ancho),2)));
+    altura = (sqrt(pow((diagonal),2) - pow((ancho),2)));
   
-   printf("la altura de la puerta es: %f", altura);
+    printf("la altura de la puerta es: %f", altura);
   
-   printf(" metros");
+    printf(" metros");
   
  
   return 0;
