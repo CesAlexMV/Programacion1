@@ -1,6 +1,5 @@
 /*Programa que nos da el valor de un carácter en código ASCII
             v Ejercicios Especiales 1.1 
-           Programa elaborado por URIEL RODEA
                     GRUPO 1151
                   EQUIPO numero 1                          */
 
