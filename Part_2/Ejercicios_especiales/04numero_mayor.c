@@ -1,5 +1,6 @@
 /*Programa que encuentre el número mayor entre dos números
               Ejercicios Especiales 3 
+	      Programa elaborado por URIEL RODEA
                     GRUPO 1151
                   EQUIPO numero 1                          */
 
