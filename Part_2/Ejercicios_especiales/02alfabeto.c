@@ -1,6 +1,5 @@
 /*Programa que nos da si el carácter dado pertenece al alfabeto
               Ejercicios especiales 1.2
-           Programa elaborado por URIEL RODEA
                     GRUPO 1151
                   EQUIPO numero 1                          */
 
