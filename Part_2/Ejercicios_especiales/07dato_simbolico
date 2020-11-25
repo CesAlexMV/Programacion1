@@ -1,0 +1,9 @@
+Los datos simbólicos, introducidos por E. Diday en los ochentas, se ocupan del análisis de datos con variabilidad intrínseca que debería ser tenida en cuenta.
+En minería de datos, análisis multivariado de datos y estadística clásica, los elementos analizados generalmente son entidades individuales para las cuales se graba un
+valor individual de cada variable – por ej., individuos descritos por edad, salario, nivel educativo, etc. Pero cuando los elementos de interés son clases o grupos de
+algún tipo – como los ciudadanos que viven en una ciudad determinada, modelos de autos en lugar de vehículos específicos, etc. – hay variabilidad inherente en los datos.
+Reducir esta variabilidad mediante medidas de tendencia central – media aritmética, mediana o moda – lleva obviamente a una pérdida de información importante.
+El análisis de datos simbólicos proporciona un marco que permite representar datos con variabilidad, usando nuevos tipos de variables. 
+Además, se han desarrollado métodos que toman en cuenta adecuadamente la variabilidad de los datos. Los datos simbólicos se pueden representar usando los arreglos
+usuales en forma de matrices, pero en los cuales los elementos de cada celda no son valores numéricos reales individuales, como es usual, sino conjuntos finitos de valores,
+intervalos o, de forma más general, distribuciones.
