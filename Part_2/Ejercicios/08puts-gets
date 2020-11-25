@@ -1,0 +1,6 @@
+La función gets recibe como parámetro un arreglo de tipo char, en él se almacenará los caracteres provenientes de la consola. 
+A diferencia de prints la lectura con gets no se detendrá cuando se encuentre un espacio en blanco sino hasta encontrar un caracter de cambio de línea. 
+La función devuelve un puntero de tipo char que apunta al argumento, si se pretende leer al final del archivo la función devuelve NULL.
+
+Otra opción sería usar la sintaxis scanf("%[^\n]", &variable); para que lea hasta el salto de línea/enter.
+Seguido de fflush(stdin); que limpia el buffer para que nuestro programa funcione exitosamente.
