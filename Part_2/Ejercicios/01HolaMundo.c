@@ -7,11 +7,11 @@ int main()
 {
 // Usamos algunas funciones de biblioteca que estan dentro 
 // de la biblioteca stdio.h
-printf("Hola mundo\n");
- printf("\n"); 
- printf('Hola' 'Mundo')
+  printf("Hola mundo\n");
+  printf("\n"); 
+  printf('Hola' 'Mundo')
  // Secuencia de escape
 // A traves de estra instruccion, nos regresa un valor 
 // (del tipo de la funcion), en este caso 0.
-return 0
+  return 0
 }
