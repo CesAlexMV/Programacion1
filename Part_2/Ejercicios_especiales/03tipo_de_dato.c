@@ -1,5 +1,6 @@
 /*Programa que revise si un carácter dados es mayúscula,
      minúscula, número o un carácter especial.
+     Programa elaborado por URIEL RODEA
              Ejercicios Especiales 2
                     GRUPO 1151
                   EQUIPO numero 1                          */
