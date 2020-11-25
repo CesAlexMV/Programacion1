@@ -1,22 +1,16 @@
 //punto de venta de una ferretería 
 #include <stdio.h>
-#define a=sistema internacional;
-#define b=sistema britanico;
 
 int main(){
-    int a,b 
-    printf("Medida del tornillo", "puede ser a o b");
-    printf("Escribir medida del tornillo );
-    scanf ("La medida es" : f% , a/b)
-    
-     float precio; 
-     float peso; 
-         printf("Escribe una cantidad en pesos:");
-         scanf ("%f",&peso);
-    int 
-    printf("precio x objeto vendido")
-    printf("insertar precio")
-    printf("insertar obtejo vendido")
-
+    float m,SI, SB; 
+    printf("Dime la medida de tu tornillo: \n");
+    scanf("%f", &m);
+    scanf ("\nLa medida es: %f", m);
+    float precio; 
+    float peso; 
+    printf("Escribe una cantidad en peso: \n");
+    scanf ("%f", &peso); 
+    precio= peso*m
+    printf("El precio es $%f y por impuestos te combraria mas", precio);
     return 0;
 }
